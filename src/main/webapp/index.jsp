@@ -40,7 +40,7 @@
       <br>
       <span class="badge badge-danger">Hobbies: Swimming.</span>
       <br>
-      <span class="badge badge-warning">Favoriate Programming Language: Python.</span>
+      <span class="badge badge-warning">Favoriate Programming Language: Python and C++.</span>
       <!-- You only need to change these information, ends here! -->
       
 
