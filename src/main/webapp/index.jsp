@@ -38,7 +38,7 @@
       <br>
       <span class="badge badge-success">Major: Software Engineering.</span>
       <br>
-      <span class="badge badge-danger">Hobbies: Swimming and Running.</span>
+      <span class="badge badge-danger">Hobbies: Swimming, Running and Cycling.</span>
       <br>
       <span class="badge badge-warning">Favoriate Programming Language: Python and C++.</span>
       <!-- You only need to change these information, ends here! -->
