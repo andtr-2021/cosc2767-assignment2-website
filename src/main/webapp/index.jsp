@@ -32,7 +32,7 @@
 
       <!-- You only need to change these information, starts here! -->
       <p>Here is the information you need to change:</p>
-      <span class="badge badge-primary">Do Truong An</span>
+      <span class="badge badge-primary">Student Name: Do Truong An</span>
       <br>
       <span class="badge badge-secondary">sID: s3878698.</span>
       <br>
